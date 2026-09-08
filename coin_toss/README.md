@@ -1,4 +1,5 @@
 Coin Flip
+
 This is a Python program used to simulate a coin toss, in which a user is asked to pick a side (heads or tails), and the program selects a result at random between the two options. 
 If the user's choice matches the result, they win the coin toss.
 
